@@ -1,0 +1,21 @@
+{
+    "params":
+    {
+     "local_server": "True",
+     "local_uri": "mysql://root:@localhost/coding maniac",
+     "prod_uri" : "mysql://root:@localhost/coding maniac",
+     "fb_url" : "http://facebook.com/codingmaniac",  
+     "tw_url" : "http://twitter.com/codingmaniac",  
+     "gh_url" : "http://github.com/codingmaniac",
+     "blog_name": "Coding Maniac",
+     "gmail-user" : "abhisingh30800@gmail.com",
+     "gmail-password" : "Abhi@3080097291",
+     "about_text" : "Hi my name is Abhishek and I create coding tutorials and I am a good boy",
+     "no_of_posts" : 2,
+     "login_img" : "login.svg",
+     "admin_user"  : "Abhi",
+     "admin_password" : "dazzler",
+     "upload_location" : "D:\\Private Data\\Programs\\Flask tutorials\\static"     
+    }
+    
+}
