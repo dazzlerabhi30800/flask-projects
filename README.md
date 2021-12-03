@@ -1,2 +1,2 @@
 # flask-projects
-These are Flask projects for beginners
+REST API
